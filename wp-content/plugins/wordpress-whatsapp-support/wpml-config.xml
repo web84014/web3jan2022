@@ -1,0 +1,21 @@
+<wpml-config>
+	<admin-texts>
+		<key name="wws_about_support_text" />
+		<key name="wws_welcome_message" />
+		<key name="wws_input_placeholder_text" />
+		<key name="wws_number_placeholder_text" />
+		<key name="wws_predefined_text" />
+		<key name="wws_trigger_button_text" />
+		<key name="wws_product_query_button_label" />
+		<key name="wws_product_query_support_person_title" />
+		<key name="wws_product_query_support_pre_message" />
+		<key name="wws_gdpr_message" />
+		<key name="wws_fb_click_tracking_event_name" />
+		<key name="wws_fb_click_tracking_event_label" />
+		<key name="wws_ga_click_tracking_event_name" />
+		<key name="wws_ga_click_tracking_event_category" />
+		<key name="wws_ga_click_tracking_event_label" />
+		<key name="wws_support_person_available_text" />
+		<key name="wws_support_person_not_available_text" />
+	</admin-texts>
+</wpml-config>
